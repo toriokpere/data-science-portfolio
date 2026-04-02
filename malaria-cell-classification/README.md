@@ -1,5 +1,3 @@
-# data-science-portfolio
-
 # Malaria Cell Image Classification
 
 ## Overview
