@@ -32,7 +32,7 @@ This project focuses on classifying malaria-infected and uninfected cell images 
 - Matplotlib / Seaborn
 
 ## Project Notebook
-(./malaria-cell-classification.ipynb)
+[View Notebook](./malaria-cell-classification.ipynb)
 
 ## Key Takeaways
 - Deep learning is highly effective for medical image classification
